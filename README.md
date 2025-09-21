@@ -1,71 +1,68 @@
-```markdown
 # Projeto de Aplicativo de Ensino de Libras
 
 ## Visão Geral do Projeto
 
-[cite_start]Este projeto tem como objetivo a criação de um aplicativo móvel para o ensino da Língua Brasileira de Sinais (Libras)[cite: 4]. [cite_start]A finalidade é desenvolver uma ferramenta que seja acessível, eficaz, interativa e engajadora para os usuários aprenderem Libras[cite: 5].
+Este projeto detalha as características, requisitos e funcionalidades de um aplicativo móvel para o ensino da Língua Brasileira de Sinais (Libras). O objetivo é criar uma ferramenta acessível e eficaz que permita aos usuários aprender Libras de forma interativa e engajadora.
 
 ## Características do Aplicativo
 
-* [cite_start]**Conteúdo Estruturado:** Inclui o ensino do alfabeto, numerais e sinais básicos de operações matemáticas[cite: 7].
-* [cite_start]**Exercícios Interativos:** Dispõe de questionários, jogos de memorização e atividades práticas para reforçar o aprendizado[cite: 8].
-* [cite_start]**Dicionário de Libras:** Oferece um banco de dados de sinais que pode ser pesquisado, com vídeos e descrições[cite: 9].
-* [cite_start]**Acessibilidade:** O design é focado na usabilidade e em recursos de acessibilidade para diferentes perfis de usuários[cite: 10].
+* **Conteúdo Estruturado:** Inclui o ensino do alfabeto, numerais e sinais básicos de operações matemáticas.
+* **Exercícios Interativos:** Dispõe de questionários, jogos de memorização e atividades práticas para reforçar o aprendizado.
+* **Dicionário de Libras:** Oferece um banco de dados pesquisável de sinais, com vídeos e descrições.
+* **Acessibilidade:** Possui um design focado em usabilidade e recursos de acessibilidade para diversos perfis de usuários.
 
 ## Requisitos do Sistema
 
 ### Requisitos Funcionais
 
-* [cite_start]O aplicativo deve permitir o registro e login de usuários[cite: 13].
-* [cite_start]Deve incluir exercícios de múltipla escolha e de arrastar e soltar[cite: 14].
-* [cite_start]O dicionário de Libras deve ser pesquisável por palavra-chave ou categoria[cite: 15].
-* [cite_start]O aplicativo deve ter a funcionalidade de enviar notificações como lembretes de estudo[cite: 16].
+* O aplicativo deve permitir o registro e login de usuários.
+* Deve haver exercícios de múltipla escolha e de arrastar e soltar.
+* O dicionário de Libras deve ser pesquisável por palavra-chave ou categoria.
+* O aplicativo deve enviar notificações de lembretes de estudo.
 
 ### Requisitos Não Funcionais
 
-* [cite_start]**Desempenho:** O aplicativo deve apresentar carregamento rápido e funcionar sem travamentos[cite: 18].
-* [cite_start]**Usabilidade:** A interface do usuário deve ser intuitiva e de fácil utilização[cite: 19].
-* [cite_start]**Segurança:** Os dados dos usuários devem ser protegidos e a privacidade garantida[cite: 20].
-* [cite_start]**Compatibilidade:** Deve ser compatível com as versões mais recentes dos sistemas operacionais iOS e Android[cite: 23].
-* [cite_start]**Escalabilidade:** A arquitetura do aplicativo deve suportar a adição de novas funcionalidades e conteúdo futuramente[cite: 24].
-* [cite_start]**Manutenibilidade:** O código deve ser bem documentado para facilitar a manutenção e futuras atualizações[cite: 25].
+* **Desempenho:** O aplicativo deve carregar rapidamente e funcionar sem travamentos.
+* **Usabilidade:** A interface do usuário deve ser intuitiva e fácil de usar.
+* **Segurança:** Os dados do usuário devem ser protegidos e a privacidade garantida.
+* **Compatibilidade:** O aplicativo deve ser compatível com as versões mais recentes do Windows.
+* **Escalabilidade:** A arquitetura do aplicativo deve permitir a adição de novas funcionalidades e conteúdo no futuro.
+* **Manutenibilidade:** O código deve ser bem documentado e fácil de manter e atualizar.
 
 ## Funcionalidades Detalhadas
 
 ### Módulos de Aprendizado
 
-| Módulo | Descrição | Conteúdo de Exemplo |
-| --- | --- | --- |
-| Alfabeto Manual | Introdução ao alfabeto em Libras. | Vídeos de cada letra, exercícios de identificação. |
-| Saudações e Frases Básicas | Sinais comuns para interações diárias. | "Olá", "Obrigado", "Como vai?". |
-| Vocabulário Temático | Sinais relacionados a temas específicos. | Família, Escola, Alimentos, cores, profissões. |
-| Gramática de Libras | Estrutura frasal e aspectos gramaticais. | Classificadores, expressões faciais, tempo verbal. |
-
-[cite_start][cite: 28]
+| Módulo | Descrição | Conteúdo de Exemplo | 
+| :--- | :--- | :--- |
+| **Alfabeto Manual** | Introdução ao alfabeto em Libras. | Vídeos de cada letra, exercícios de identificação. |
+| **Numerais Manual** | Introdução ao numerais e operações em Libras. | Vídeos de cada número, exercícios de identificação. |
+| **Saudações e Frases Básicas** | Sinais comuns para interações diárias. | "Olá", "Obrigado", "Como vai?". |
+| **Vocabulário Temático** | Sinais relacionados a temas específicos. | Família, Escola, Alimentos, cores, profissões. |
+| **Gramática de Libras** | Estrutura frasal e aspectos gramaticais. | Classificadores, expressões faciais, tempo verbal. |
 
 ### Dicionário de Libras
 
-[cite_start]Os usuários podem pesquisar sinais por[cite: 30]:
-* [cite_start]Palavra-chave (ex: "casa", "água") [cite: 31]
-* [cite_start]Categoria (ex: "ações", "lugares") [cite: 32]
-* [cite_start]Ordem alfabética [cite: 32]
+Os usuários poderão pesquisar sinais por:
+* Palavra-chave (ex: "casa", "água") 
+* Categoria (ex: "ações", "lugares")
+* Ordem alfabética
 
 ### Exercícios e Avaliações
 
-* [cite_start]**Quiz de Sinais:** Para testar a compreensão dos sinais aprendidos[cite: 34].
-* [cite_start]**Jogo da Memória:** Para associar imagens a sinais[cite: 35].
-* [cite_start]**Prática de Sentenças:** Para construir frases simples em Libras[cite: 36].
+* **Quiz de Sinais:** Teste a compreensão dos sinais aprendidos.
+* **Jogo da Memória:** Associe imagens a sinais.
+* **Prática de Sentenças:** Construa frases simples em Libras.
 
 ### Perfil do Usuário e Progresso
 
-* [cite_start]Visualização do progresso por módulo[cite: 38].
-* [cite_start]Estatísticas de desempenho nos exercícios[cite: 39].
-* [cite_start]Conquistas e distintivos para motivar o aprendizado[cite: 39].
+* Visualização do progresso por módulo.
+* Estatísticas de desempenho em exercícios.
+* Conquistas e distintivos para motivar o aprendizado.
 
 ## Informações Importantes
 
-* [cite_start]**Repositório do Projeto:** [Link não disponível no documento] [cite: 41]
-* [cite_start]**Design da Interface (Figma):** [Link não disponível no documento] [cite: 42]
-* [cite_start]**Projeto UI/UX Publicado:** https://grow-magma-85737319.figma.site/ [cite: 43]
-* [cite_start]**Apresentação do Projeto (Canva):** [Link não disponível no documento] [cite: 44]
-```
+* **Link do Repositório do Projeto:** https://github.com/smartielo/libras-para-todos
+* **Documento de Design da Interface (Figma):** https://www.figma.com/design/UAK2zDvDZ3uALYjbIiZZab/trabalho-elvio?node-id=0-1&t=JhIofZi0vWrb6VNQ-1
+* **Projeto UI/UX Publicado:** https://grow-magma-85737319.figma.site/ 
+* **Link da Apresentação do Projeto (Canva):** https://www.canva.com/design/DAGzSV0MdQA/U3pHV64IasIdVUX31qga6w/edit?utm_content=DAGzSV0MdQA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
